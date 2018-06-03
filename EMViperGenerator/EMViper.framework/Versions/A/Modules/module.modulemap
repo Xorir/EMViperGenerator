@@ -1,0 +1,11 @@
+framework module EMViper {
+  umbrella header "EMViper.h"
+
+  export *
+  module * { export * }
+}
+
+module EMViper.Swift {
+    header "EMViper-Swift.h"
+    requires objc
+}
