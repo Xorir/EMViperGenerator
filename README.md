@@ -9,6 +9,8 @@ Project creates folders and files for VIPER
           generator.createModule(moduleName: "naku", projectName: "zz", CopyRightHolder: "dd")
 4) Run the project and wait for the folder to pop up.
 5) Drag & Drop the folder created into you Cocoa or Cocoa Touch project.
+
+
 OR
 
 1) Download or clone the project
